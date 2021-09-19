@@ -1,6 +1,6 @@
 {
   "name": "sneed",
-  "version": "sample version",
+  "version": "1.0.0",
   "description": "sneedle",
   "main": "index.js",
   "scripts": {
